@@ -17,3 +17,6 @@ When run, this application will print a sequence of `X` characters to the screen
 ## Usage
 Once you have loaded `scrsvr.bas` into your BASIC interpreter, type `RUN` to run the screensaver program.
 To end the program, press any character key. If unresponsive, press `CONTROL + C` to force the interpret to stop.
+
+### Screenshot
+![Screenshot of screensaver running](/screenshots/screensaver.png "Screensaver running")
