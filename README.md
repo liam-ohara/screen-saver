@@ -5,7 +5,7 @@ When run, this application will print a sequence of `X` characters to the screen
 
 ## Installation
 ### Prerequisites
-* BASIC interpreter compatible with GW-BASIC/BASICA dialects of BASIC (![PC-BASIC](http://robhagemans.github.io/pcbasic/) is a cross-platform interpreter)
+* BASIC interpreter compatible with GW-BASIC/BASICA dialects of BASIC ([PC-BASIC](http://robhagemans.github.io/pcbasic/) is a cross-platform interpreter)
 
 ### Installation
 1. Download `scrsvr.bas` from the `/src/` directory.
